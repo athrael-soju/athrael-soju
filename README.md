@@ -4,7 +4,7 @@
 
 I build software and write about tech.  
 If you want a quick tour, start with the links below.
-
+![snake gif](https://raw.githubusercontent.com/athrael-soju/athrael-soju/output/snake.svg)
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://athosgeorgiou.com)
