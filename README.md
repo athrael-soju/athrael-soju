@@ -40,7 +40,7 @@ I build software and write about tech. Mostly...
 
 ---
 
-## ✍️ Writing
+## ✍️ Stuff
 I publish technical notes and longer articles on my **[Tech Blog](https://athrael.net)**.  
 For collabs, speaking, or papers, feel free to reach out via my **[website](https://athosgeorgiou.com)**.
 
