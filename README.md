@@ -25,21 +25,6 @@ I build software and write about tech. Mostly...
 
 ---
 
-## 📊 GitHub Overview
-<p>
-  <img height="165" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=athrael-soju&show_icons=true&rank_icon=github&theme=transparent" />
-  <img height="165" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrael-soju&layout=compact&theme=transparent" />
-</p>
-
-<p>
-  <img height="165" alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=athrael-soju&theme=transparent" />
-</p>
-
----
-
 ## ✍️ Stuff
 I publish technical notes and longer articles on my **[Tech Blog](https://athrael.net)**.  
 For collabs, speaking, or papers, feel free to reach out via my **[website](https://athosgeorgiou.com)**.
