@@ -20,7 +20,7 @@ I build software and write about tech. Mostly...
 - **Professional website:** https://athosgeorgiou.com  
 - **GitHub:** https://github.com/athrael-soju  
 - **Tech Blog:** https://athrael.net  
-- **Further Contributions:** https://qdrant.tech/stars/  
+- **Further Contributions:** Ambassador for Qdrant & Vercel V0.dev
 - **Papers / Publications:** _Available upon request_
 
 ---
