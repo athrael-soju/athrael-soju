@@ -22,11 +22,8 @@ I build software and write about tech. Mostly...
 - **LinkedIn:** https://www.linkedin.com/in/athosg/
 - **Tech Blog:** https://athrael.net  
 - **Youtube:** https://www.youtube.com/watch?v=BBJa32lCaaY
+- **Papers / Publications:** https://orcid.org/0009-0004-3081-2883
 - **Further Contributions:** Ambassador for Qdrant & Vercel V0.dev
-- **Papers / Publications:**
-  - [Spatially-Grounded Document Retrieval via Patch-to-Region Relevance Propagation](https://arxiv.org/abs/2512.02660)
-  - [Front-End Monitor and Control Web Application for Large Telescope Infrastructures: A Comparative Analysis](https://proceedings.jacow.org/icalepcs2023/papers/tumbcmo09.pdf)
-  - [Improving Performance of Taranta: Analysis of Memory Requests and Implementation of the Solution](https://proceedings.jacow.org/icalepcs2023/papers/tupdp044.pdf)
 
 ---
 
