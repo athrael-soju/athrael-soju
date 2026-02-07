@@ -17,7 +17,8 @@ I build software and write about tech. Mostly...
 ---
 
 ## 🔗 Links
-- **Professional website:** https://athosgeorgiou.com  
+- **Professional website:** https://athosgeorgiou.com
+- **Company:** https://nca-it.com
 - **GitHub:** https://github.com/athrael-soju
 - **LinkedIn:** https://www.linkedin.com/in/athosg/
 - **Tech Blog:** https://athrael.net  
