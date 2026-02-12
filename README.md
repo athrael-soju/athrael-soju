@@ -21,10 +21,10 @@ I build software and write about tech. Mostly...
 - **Company:** https://nca-it.com
 - **GitHub:** https://github.com/athrael-soju
 - **LinkedIn:** https://www.linkedin.com/in/athosg/
-- **Tech Blog:** https://athrael.net  
-- **Youtube:** https://www.youtube.com/watch?v=BBJa32lCaaY
+- **Tech Blog:** https://athrael.net
 - **Papers / Publications:** https://orcid.org/0009-0004-3081-2883
 - **Further Contributions:** Ambassador for Qdrant & Vercel V0.dev
+- **Youtube:** https://www.youtube.com/watch?v=BBJa32lCaaY 
 
 ---
 
