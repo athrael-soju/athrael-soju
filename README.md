@@ -20,6 +20,7 @@ I build software and write about tech. Mostly...
 - **Professional website:** https://athosgeorgiou.com
 - **Company:** https://nca-it.com
 - **GitHub:** https://github.com/athrael-soju
+- **HuggingFace:** https://huggingface.co/athrael-soju
 - **LinkedIn:** https://www.linkedin.com/in/athosg/
 - **Tech Blog:** https://athrael.net
 - **Papers / Publications:** https://orcid.org/0009-0004-3081-2883
