@@ -23,4 +23,4 @@ I break GPU clusters for a living, then write papers about why. Founder of [NCA]
 
 I write at [athrael.net](https://athrael.net), often on many of the challenges I encounter. Production RAG failures, ROCm driver mysteries, the gap between what a paper claims and what happens at batch size 64. If it cost me a weekend, I may write it up so it doesn't cost you one.
 
-For collabs, speaking, or papers: [athosgeorgiou.com](https://athosgeorgiou.com).
+For collabs, speaking, or papers: [Schedule a call](https://cal.com/athos-georgiou/30min)
