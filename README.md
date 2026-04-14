@@ -17,12 +17,12 @@ I build software and write about tech. Mostly...
 ---
 
 ## 🔗 Links
-- **Professional website:** https://athosgeorgiou.com
+- **Website:** https://athosgeorgiou.com
 - **Company:** https://nca-it.com
 - **GitHub:** https://github.com/athrael-soju
 - **HuggingFace:** https://huggingface.co/athrael-soju
 - **LinkedIn:** https://www.linkedin.com/in/athosg/
-- **Tech Blog:** https://athrael.net
+- **Blog:** https://athrael.net
 - **Papers / Publications:** https://orcid.org/0009-0004-3081-2883
 - **Further Contributions:** Ambassador for Qdrant & Vercel V0.dev
 - **Youtube:** https://www.youtube.com/watch?v=BBJa32lCaaY 
