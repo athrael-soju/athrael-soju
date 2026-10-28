@@ -4,7 +4,7 @@
 
 ![snake gif](https://raw.githubusercontent.com/athrael-soju/athrael-soju/output/snake.svg)
 
-I break GPU clusters for a living, then write papers about why. Founder of [NCA](https://nca-it.com), 15+ years building production systems & applied AI. Currently consulting on GPU inference infrastructure, research & training/finetuning models.
+I break GPU clusters for a living, then write papers about why. 15+ years building production systems & applied AI. Currently consulting on GPU inference infrastructure, research & training/finetuning models.
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://athosgeorgiou.com)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://athrael.net)
